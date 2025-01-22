@@ -1,0 +1,616 @@
+fileFormatVersion: 2
+guid: 8fadd96e6cb382047a951dc98bffcf88
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 169232107572784864
+    second: flippers_0
+  - first:
+      213: 8299068710379333600
+    second: flippers_1
+  - first:
+      213: 4065575938817563545
+    second: flippers_2
+  - first:
+      213: 3141324946215484214
+    second: flippers_3
+  - first:
+      213: 4634975965370707662
+    second: flippers_4
+  - first:
+      213: 8205499491657132975
+    second: flippers_5
+  - first:
+      213: -6907229080286132690
+    second: flippers_6
+  - first:
+      213: -6254457131928520056
+    second: flippers_7
+  - first:
+      213: -8397716749430079468
+    second: flippers_8
+  - first:
+      213: -6269378686386330485
+    second: flippers_9
+  - first:
+      213: -5427506330022843647
+    second: flippers_10
+  - first:
+      213: -2012979188634970654
+    second: flippers_11
+  - first:
+      213: 5116571774595911354
+    second: flippers_12
+  - first:
+      213: -8466193909688342016
+    second: flippers_13
+  - first:
+      213: 360762897120856722
+    second: flippers_14
+  - first:
+      213: -4233746719804515013
+    second: flippers_15
+  - first:
+      213: 1127140069004673855
+    second: flippers_16
+  - first:
+      213: 3207025535642638005
+    second: flippers_17
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 160
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flippers_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 901
+        width: 193
+        height: 61
+      alignment: 9
+      pivot: {x: 0.8588974, y: 0.42077637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee677884bb395200800000000000000
+      internalID: 169232107572784864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flippers_1
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 896
+        width: 194
+        height: 69
+      alignment: 9
+      pivot: {x: 0.85946906, y: 0.49377617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e728b095073c2370800000000000000
+      internalID: 8299068710379333600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flippers_2
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 901
+        width: 193
+        height: 61
+      alignment: 9
+      pivot: {x: 0.8605666, y: 0.4260574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b9898a6c3db6830800000000000000
+      internalID: 4065575938817563545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flippers_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 730
+        width: 192
+        height: 62
+      alignment: 9
+      pivot: {x: 0.8658006, y: 0.45323232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b3f37256a389b20800000000000000
+      internalID: 3141324946215484214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flippers_4
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 730
+        width: 199
+        height: 62
+      alignment: 9
+      pivot: {x: 0.87074167, y: 0.4428396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecee466551eb25040800000000000000
+      internalID: 4634975965370707662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flippers_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 731
+        width: 202
+        height: 62
+      alignment: 9
+      pivot: {x: 0.8275086, y: 0.44180888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab2fd4205acfd170800000000000000
+      internalID: 8205499491657132975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flippers_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 545
+        width: 192
+        height: 62
+      alignment: 9
+      pivot: {x: 0.86785847, y: 0.46024248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e260c4f5fb79420a0800000000000000
+      internalID: -6907229080286132690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flippers_7
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 545
+        width: 193
+        height: 64
+      alignment: 9
+      pivot: {x: 0.85673565, y: 0.44965935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88afd744064b339a0800000000000000
+      internalID: -6254457131928520056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flippers_8
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 546
+        width: 196
+        height: 64
+      alignment: 9
+      pivot: {x: 0.85809606, y: 0.39761257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4104fd10c11557b80800000000000000
+      internalID: -8397716749430079468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flippers_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 192
+        height: 62
+      alignment: 9
+      pivot: {x: 0.86597115, y: 0.42444488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84a9832d41bef8a0800000000000000
+      internalID: -6269378686386330485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flippers_10
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 371
+        width: 201
+        height: 76
+      alignment: 9
+      pivot: {x: 0.8677112, y: 0.52054596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bedcebfbf9da4b0800000000000000
+      internalID: -5427506330022843647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flippers_11
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 373
+        width: 195
+        height: 72
+      alignment: 9
+      pivot: {x: 0.8683487, y: 0.5216874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e59829d7167014e0800000000000000
+      internalID: -2012979188634970654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flippers_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 208
+        width: 185
+        height: 65
+      alignment: 9
+      pivot: {x: 0.8603654, y: 0.41178918}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe44949be6b10740800000000000000
+      internalID: 5116571774595911354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flippers_13
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 207
+        width: 210
+        height: 67
+      alignment: 9
+      pivot: {x: 0.80734396, y: 0.4876021}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a6375be79028a80800000000000000
+      internalID: -8466193909688342016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flippers_14
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 210
+        width: 193
+        height: 62
+      alignment: 9
+      pivot: {x: 0.8666357, y: 0.4269931}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a870b81ffa10500800000000000000
+      internalID: 360762897120856722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flippers_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 192
+        height: 62
+      alignment: 9
+      pivot: {x: 0.86597127, y: 0.42289618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d93192ac5be35c0800000000000000
+      internalID: -4233746719804515013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flippers_16
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 21
+        width: 219
+        height: 66
+      alignment: 9
+      pivot: {x: 0.72738814, y: 0.4484614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f330221cbe764af00800000000000000
+      internalID: 1127140069004673855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flippers_17
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 0
+        width: 186
+        height: 108
+      alignment: 9
+      pivot: {x: 0.84808314, y: 0.6296602}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6169dabb4a18c20800000000000000
+      internalID: 3207025535642638005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      flippers_0: 169232107572784864
+      flippers_1: 8299068710379333600
+      flippers_10: -5427506330022843647
+      flippers_11: -2012979188634970654
+      flippers_12: 5116571774595911354
+      flippers_13: -8466193909688342016
+      flippers_14: 360762897120856722
+      flippers_15: -4233746719804515013
+      flippers_16: 1127140069004673855
+      flippers_17: 3207025535642638005
+      flippers_2: 4065575938817563545
+      flippers_3: 3141324946215484214
+      flippers_4: 4634975965370707662
+      flippers_5: 8205499491657132975
+      flippers_6: -6907229080286132690
+      flippers_7: -6254457131928520056
+      flippers_8: -8397716749430079468
+      flippers_9: -6269378686386330485
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
